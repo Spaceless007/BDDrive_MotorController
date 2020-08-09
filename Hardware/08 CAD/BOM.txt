@@ -1,0 +1,3 @@
+3DX_CUI_Supplier: CUI, Inc
+3DX_CUI_Description: 5 Vdc, 1 A, 5 W, 8~36 Vdc Input Range
+3DX_CUI_Model Number: V78E05-1000-SMT-TR
