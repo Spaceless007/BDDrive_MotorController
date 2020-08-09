@@ -1,0 +1,7 @@
+- via stiching
+- production
+- digikey
+- check if based on v3.4 or v3.5 
+- C1 not the same
+- do general documentation document
+- do README
