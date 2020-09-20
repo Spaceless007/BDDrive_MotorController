@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for BDDrive
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -156,6 +156,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MSLCDXYV
 
+[Document8]
+DocumentPath=..\..\..\..\ReposOronos\pcb-design\PCB-Libs\Template\Output_Job_Oronos.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=BEDC03CD-7DBA-4B1C-9BCA-09563E9643E1
 Description=Populated
@@ -212,7 +229,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for BDDrive
 
 [OutputGroup1]
 Name=Netlist Outputs
